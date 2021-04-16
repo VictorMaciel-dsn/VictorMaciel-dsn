@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @VictorMaciel-dsn
-- 👀 I’m interested in aprender novas tecnologias para contribuir com o desenvolvimento de softwares para  as grandes empresas.
-- 🌱 I’m currently learning sobre desenvolvimento web.
-- 💞️ I’m looking to collaborate on  projetos e testes de softwares voltados para a web.
+👋 Hello, I'm @ VictorMaciel-dsn
+👀 I am interested in learning new technologies to contribute to the development of software for large companies.
+🌱 I am currently learning about web development.
+💞️ I try to collaborate on software projects and tests aimed at the web.
 
 <!---
 VictorMaciel-dsn/VictorMaciel-dsn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
