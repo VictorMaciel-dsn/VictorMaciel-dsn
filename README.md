@@ -1,6 +1,9 @@
 👋 Hello, I'm @ VictorMaciel-dsn
+
 👀 I am interested in learning new technologies to contribute to the development of software for large companies.
+
 🌱 I am currently learning about web development.
+
 💞️ I try to collaborate on software projects and tests aimed at the web.
 
 <!---
