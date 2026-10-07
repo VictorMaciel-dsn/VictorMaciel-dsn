@@ -20,9 +20,9 @@
 
 <table>
   <tr>
-    <td align="center" width="33%"><h2>6 anos</h2><sub>em tecnologia</sub></td>
-    <td align="center" width="33%"><h2>+4 anos</h2><sub>como desenvolvedor</sub></td>
-    <td align="center" width="33%"><h2>+30</h2><sub>projetos entregues</sub></td>
+    <td align="center" width="33%"><h2>6 anos</h2><sub>em&nbsp;tecnologia</sub></td>
+    <td align="center" width="33%"><h2>+4 anos</h2><sub>como&nbsp;desenvolvedor</sub></td>
+    <td align="center" width="33%"><h2>+30</h2><sub>projetos&nbsp;entregues</sub></td>
   </tr>
 </table>
 
